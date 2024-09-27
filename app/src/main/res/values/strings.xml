@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">ChocolateAssingment2</string>
+    <string name="status_bar">Status Bar</string>
+    <string name="check_box">Check Box</string>
+    <string name="what_do_yoy_want_to_buy">What do yoy want to buy ?</string>
+    <string name="kitkat">Kitkat</string>
+    <string name="dairy_milk">Dairy Milk</string>
+    <string name="snickers">Snickers</string>
+    <string name="ferrero">Ferrero</string>
+    <string name="select_chocolates_size">Select Chocolates Size:</string>
+    <string name="minus">-</string>
+    <string name="decrement">-</string>
+    <string name="_0">0</string>
+    <string name="Add">+</string>
+    <string name="subtract">-</string>
+    <string name="quantity">Quantity:</string>
+    <string name="place_order">Place Order</string>
+    <string name="rating_0_0">Rating: 0.0</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="bdt_0">BDT 0</string>
+    <string name="price_bdt_350_each">Price (BDT 350 each)</string>
+    <string name="milk_chocolate">Milk chocolate</string>
+    <string name="white_chocolate">White chocolate</string>
+    <string name="dark_chocolate">Dark chocolate</string>
+    <string name="silk_chocolate">Silk chocolate</string>
+    <string name="total_price_bdt_0">Total Price: BDT 0</string>
+    <string name="select_chocolates">Select Chocolates:</string>
+    <string name="brightness">Brightness</string>
+    <string name="level">Level</string>
+</resources>
